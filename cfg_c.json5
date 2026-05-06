@@ -1,0 +1,23 @@
+{
+
+
+"LANG_F":"english",
+"LANG_T":"dutch",
+"LANG_CF":"en",
+"LANG_CT":"nl-c",
+
+"P1":"D:/vrtl/tap/",
+"P2":"/OEBPS/xhtml/",
+
+"_WC":"wildcard",
+"WC":"*",
+"BGN":"Ab",
+"END":"Ab",
+
+"_CNTNT": "prompt",
+"CNTNT": ". translate only text visible in a browser. assume the html structure is correct. never add tags.",
+  
+"MODEL_C":"command-a-translate-08-2025"
+
+
+}

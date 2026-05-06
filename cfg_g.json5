@@ -1,0 +1,5 @@
+{
+"MODEL_G":"gemini-3-flash-preview",
+"MODEL_G2":"gemini-2.5-flash-lite",
+"MODEL_GP":"gemini-3-pro-preview",
+}
