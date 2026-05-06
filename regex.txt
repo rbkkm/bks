@@ -1,0 +1,16 @@
+]*>  : verwijderd alle tags
+<p>\d+</p>  : verw tag + getal
+
+vervangt span door i
+<span class="italic">(.*?)</span>
+<i>$1</i>
+
+verwijderd span
+<span\b[^>]*>(.*?)</span>
+$1
+verwijder pagebreak
+<span epub:type="pagebreak".*?\/>
+
+verwijder a
+<a [^>]*>(.*?)</a>
+$1
