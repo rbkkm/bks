@@ -1,0 +1,30 @@
+-----  hoofd -------   
+    ("Nederlands", "nl"),
+    ("Duits", "de"),
+    ("Frans", "fr"),
+    ("Spaans", "es"),
+    ("Portugees", "pt"),
+    ("Italiaans", "it"),
+    ("Baskisch", "eus"),
+	
+-----  noord --------
+    ("Deens", "dk"),
+	("Estisch", "ee"), 
+    ("Fins", "fi"),
+	("Lets", "lv"),
+	("Litouws", "lt"),
+	("Noors", "no"),
+	("Zweeds", "se"),
+
+----- centraal -----
+    ("Hongaars", "hu"), 
+	("Kroatisch", "hr"),
+	("Pools", "pl"),
+	("Roemeens", "ro"),
+    ("Slowaaks", "sk"),
+    ("Sloveens", "si"),  
+	("Tsjechisch", "cz"),
+
+----- wereld ------
+    "Swahili", "sw"
+    Simplified Chinese, "zh-CN"
